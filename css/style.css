@@ -345,8 +345,7 @@ button:hover{background-color: #3A415C;}
 
 #companies{width: 100%;padding: 55px 0 42px 0;}
 .company-block{width: auto;display: flex;justify-content: center;}
-.company-name{width: calc(20% -76.8px);}
-.company-name{transition: all ease 0.5s;transform: scale(1);text-align: center;}
+.company-name{width: calc(20% - 76.8px);transition: all ease 0.5s;transform: scale(1);text-align: center;}
 .company-name:hover{transform: scale(1.1);}
 .company-name img{padding: 15px;}
 
