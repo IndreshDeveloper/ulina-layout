@@ -237,7 +237,7 @@ button:hover{background-color: #3A415C;}
 .ulina-product p{font-size: 18px;font-family: Work Sans;font-weight: 300;color: #707686;line-height: 30px;max-width: 530px;}
 .sell-text{display: flex;align-items: center;max-width: 416px;justify-content: space-between;}
 .sell-text span{font-size: 50px;font-family: Outfit;font-weight: 500;color: #589195;}
-.sell-text a{font-size: 18px;font-family: Outfit;font-weight: 400;color: #FFFFFF;padding: 10px 30px;background-color: #589195;border-radius: 38px;display: inline-block;}
+.sell-text a{font-size: 18px;font-family: Outfit;font-weight: 400;color: #FFFFFF;padding: 10px 30px;background-color: grey;border-radius: 38px;display: inline-block;}
 .new-price span{display: flex;align-items: center;gap: 15px;}
 .old-price{font-size: 24px;font-family: Outfit;font-weight: 400;color: #5B6075;text-decoration: line-through;}
 .counter-item span{font-size: 30px;font-family: Outfit;font-weight: 300;color: #34394C;}
